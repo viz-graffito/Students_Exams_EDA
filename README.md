@@ -1,4 +1,4 @@
-# Exploratory Datan Analysis on Students Performance in Exams.
+# Exploratory Data Analysis on Students Performance in Exams.
 
 ## Overview
 Exploratory Data Analysis of the exams conducted on students. this exams contain scores of three subjects `maths`,`reading` and `writing`.
